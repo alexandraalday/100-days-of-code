@@ -8,3 +8,11 @@
 
 **Link to work:** [Tribute Page](https://codepen.io/hellionoftroy/pen/yVmBaw)
 
+### Day 2: January 4, 2017 (Wednesday)
+
+**Today's Progress**: 1.25 hours // Started working on my portfolio page challenge. 
+
+**Thoughts:** After working on my tribute page, I wish I knew more Bootstrap. I think I will focus on using Bootstrap for this challenge and try to stay asway from custom CSS. 
+
+**Link to work:** [Personal Portfolio Page](http://codepen.io/hellionoftroy/pen/rjajME)
+

@@ -31,3 +31,29 @@
 **Thoughts:** Would have kept going all night, but exhausted. Can't wait to get up early tomorrow and finish adding all the design elements and hopefully some JS for some smooth transitions.
 
 **Link to work:** [Personal Portfolio Page](http://codepen.io/hellionoftroy/pen/rjajME)
+
+I am the worst at updating!
+
+### Day 5: January 7, 2017 (Saturday)
+
+**Today's Progress**: 4 hours // Finished my portfolio page. 
+
+**Thoughts:** Feeling pretty smug about it too. 
+
+**Link to work:** [Personal Portfolio Page](http://codepen.io/hellionoftroy/pen/rjajME)
+
+### Day 6: January 8, 2017 (Sunday)
+
+**Today's Progress**: 2 hours // Finished up the Front End Fooundations and Front End Formations on Codeschool. 
+
+**Thoughts:** Need a mental break from projects. Was kinda pooped mentally. Spent the time reinforcing some of those basic html/css skills. 
+
+**Link to work:** [CodeSchool](https://www.codeschool.com/users/hellionoftroy)
+
+### Day 7: January 9, 2017 (Monday)
+
+**Today's Progress**: 1 hour // Worked on jQuery seciton on Free Code Camp.
+
+**Thoughts:** Mondays are hard, but especially this one. Spent my time working through the jQuery lessons on FCC in preparation to start the projects tomorrow. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)

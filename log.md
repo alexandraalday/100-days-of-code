@@ -57,3 +57,59 @@ I am the worst at updating!
 **Thoughts:** Mondays are hard, but especially this one. Spent my time working through the jQuery lessons on FCC in preparation to start the projects tomorrow. 
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 8: January 10, 2017 (Tuesday)
+
+**Today's Progress**: 1 hour // Worked on Javascript seciton on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 1 = working from home 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 9: January 11, 2017 (Wednesday)
+
+**Today's Progress**: 1 hour // Worked on more Javascript on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 2 = working from home (again) and no school (read: interruptions by smol human). 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 10: January 12, 2017 (Thursday)
+
+**Today's Progress**: 1 hour // Worked on even more Javascript on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 3 = braved mass transit to go to work (with little dude cause, yeah, no school again). A semi normal day
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 11: January 13, 2017 (Friday)
+
+**Today's Progress**: 1 hour // Worked on Object Oriented and Functional Programming seciton on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 4 = seriously! Still stuck at home. Getting a little more motivated starting the next section. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 12: January 14, 2017 (Saturday)
+
+**Today's Progress**: 1 hour // Finished Object Oriented and Functional Programming seciton on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 5 = ..... ice, ice everywhere. Managed to finish up this section. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 13: January 15, 2017 (Sunday)
+
+**Today's Progress**: 1 hour // Basic Algorithm Scripting underway on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 6 = very ready for this ice to go away. Started algorithm scripting exercises to keep my mind off the fact that I am trapped in my house. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 14: January 16, 2017 (Monday)
+
+**Today's Progress**: 1 hour // Basic Algorithm Scripting underway on Free Code Camp.
+
+**Thoughts:** pdx snowpocalypse day 7 = things are melting! transferred my FCC projects into their own git repo and worked on some more algorithm stuff. Should start the intermediate projects tomorrow! 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)

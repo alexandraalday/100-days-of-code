@@ -113,3 +113,15 @@ I am the worst at updating!
 **Thoughts:** pdx snowpocalypse day 7 = things are melting! transferred my FCC projects into their own git repo and worked on some more algorithm stuff. Should start the intermediate projects tomorrow! 
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/hellionoftroy)
+
+### Day 15: January 17, 2017 (Tuesday)
+
+**Today's Progress**: 2 hours // Started Random Quote Generator. Completed wireframe, basic html layout, minor styles and quote array. Honestly, most of the time was spent finding the quotes. 
+
+**Thoughts:** pdx snowpocalypse day 8 = we are melting! Started my random quote generator tonight. Feeling pumped to finally be on projects again. So frustrating, overwhelming, and fun! Decided against Kanye Tweets and went with my original idea of ancient figures. We'll be quoting their most snarkiest lines. >:)  
+
+**Link to work:** [Random Quote Generator](http://codepen.io/hellionoftroy/pen/dNOaaO)
+
+
+
+

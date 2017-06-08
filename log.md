@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+Need to restart this maybe?
+
+
+
+
 ### Day 1: January 3, 2017 (Tuesday)
 
 **Today's Progress**: 1.5 hours // Finished and submitted my tribute page challenge.

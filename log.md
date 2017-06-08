@@ -92,13 +92,8 @@ I am the worst at updating!
 
 **Link to work:** [Random Quote Generator](http://codepen.io/hellionoftroy/pen/dNOaaO)
 
-
 ### Day 16-32: January 18 - Feb 4, 2017 (Sunday)
 
 **Today's Progress**: Many, many hours // Finished random quote generator and more CSS/HTML and Git Tracks on CodeSchool. Getting more comfortable with using git from the console. 
 
-**Thoughts:** Trying not to let life's obligations get me down about not being able to update here more often. Coding practice occurs late at night when everything else is done and I tend to go straight to bed afterwards. 
-
 **Link to work:** [Random Quote Generator](http://codepen.io/hellionoftroy/pen/dNOaaO)
-
-
